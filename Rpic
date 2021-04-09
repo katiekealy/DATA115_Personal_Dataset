@@ -1,0 +1,4 @@
+Abort <- read.csv("Abortion_2009-2018.csv")
+library(ggplot2)
+High_Abort <- subset(x=Abort,subset=Total>500000)
+ggplot(data = High_Abort,mapping = aes(x=reorder(State,Total),y=Total)) + geom_col(width=.5) + xlab("State") + ylab("Total") + ggtitle("Total Abortions for Top Three States") 
