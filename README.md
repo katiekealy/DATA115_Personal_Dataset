@@ -12,5 +12,5 @@ My datasource for this project is the Center for Disease Control and Prevention 
 
 ## Visualization
 
-https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/R_pic.png
+<img src="https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/R_pic.png">
 caption: States that performed over 500,000 abortions between 2009 and 2018. 
