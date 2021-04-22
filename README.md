@@ -12,7 +12,7 @@ My datasource for this project is the Center for Disease Control and Prevention 
 
 ## Visualization
 
-To assist with my analysis, I created a subset of data in R titled "High_Abort" for states that had performed over 500,000 abortions in the period 2009-2018. Then I used ggplot columns to visually represent the difference between the three states. 
+To assist with my analysis, I created a subset of data in R titled "High_Abort" for states that had performed over 500,000 abortions in the period 2009-2018. Then I used ggplot columns to visually represent the difference between the three remaining states. 
 
 <img src="https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/Visualization_1.png">
 
