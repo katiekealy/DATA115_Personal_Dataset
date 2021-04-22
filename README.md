@@ -20,3 +20,5 @@ To assist with my analysis, I created a subset of data in R titled "High_Abort" 
 Caption: States that performed over 500,000 abortions between 2009 and 2018. 
 
 ## Analysis
+
+I plotted the year and the number of abortions against each other for 
