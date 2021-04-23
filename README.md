@@ -22,3 +22,5 @@ Caption: States that performed over 500,000 abortions between 2009 and 2018.
 ## Analysis
 
 I plotted the year and the number of abortions against each other for New York. 
+
+<img src ="https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/NY_Trend.png">
