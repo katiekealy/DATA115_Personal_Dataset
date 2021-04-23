@@ -23,6 +23,8 @@ Caption: States that performed over 500,000 abortions between 2009 and 2018.
 
 Using multivariate analysis, I plotted the year and the number of abortions against each other for New York. 
 
+<img src ="https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/NY_Trend(r).png">
+
 <img src ="https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/NY_Trend(2).png">
 
 For the period 2009-2018, New York is experiencing a downward trend in abortions. 
