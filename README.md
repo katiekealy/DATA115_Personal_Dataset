@@ -8,7 +8,7 @@ Initially, the question for my analysis was going to be "Which state has the hig
 
 ## Data Process
 
-My datasource for this project is the Center for Disease Control and Prevention (CDC). The CDC collected Abortion surveilance reports from different states and reporting areas.The CDC provides a xls file of abortions across states for the period 2009-2018 for personal analysis under "Are data available for my own analysis" on the following website: https://www.cdc.gov/reproductivehealth/data_stats/Abortion.htm. Using this file as a basis, I spliced the columns "Total by location of service" for each year to the state name column in a new workbook titled "Abortion_2009-2018." The states California, Maryland, New Hampshire and Wyoming did not report for any of the years under analysis while Delware and the District of Columbia did not report for 2009 and 2016 respectively. Therefore, they were all excluded from the analysis. Although Florida only reported by occurrence, it was allowed to remain in the analysis because it had data for all the years in question. I added a totals column adding up all of the yearly totals for each state to the workbook. I also combined New York City and New York rows to get the total abortions performed in that state. The final workbook was uploaded as a .csv 
+My datasource for this project is the Center for Disease Control and Prevention (CDC). The CDC collected Abortion surveilance reports from different states and reporting areas.The CDC provides a xls file of abortions across states for the period 2009-2018 for personal analysis under "Are data available for my own analysis" on the following website: https://www.cdc.gov/reproductivehealth/data_stats/Abortion.htm. Using this file as a basis, I spliced the columns "Total by location of service" for each year to the state name column in a new workbook titled "Abortion_2009-2018." The states California, Maryland, New Hampshire and Wyoming did not report for any of the years under analysis while Delware and the District of Columbia did not report for 2009 and 2016 respectively. Therefore, they were excluded from the analysis. Although Florida only reported by occurrence, it was allowed to remain in the analysis because it had data for all the years in question. I added a totals column adding up all of the yearly totals for each state to the workbook. I also combined New York City and New York rows to get the total abortions performed in that state. The final workbook was uploaded as a .csv 
 
 ## Visualization
 
@@ -21,7 +21,7 @@ Caption: States that performed over 500,000 abortions between 2009 and 2018.
 
 ## Analysis
 
-For my analysis, I plotted the year and the number of abortions against each other for New York. 
+Using multivariate analysis, I plotted the year and the number of abortions against each other for New York. 
 
 <img src ="https://raw.githubusercontent.com/katiekealy/DATA115_Personal_Dataset/main/NY_Trend(2).png">
 
